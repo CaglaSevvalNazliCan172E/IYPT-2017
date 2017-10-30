@@ -1,21 +1,24 @@
 
-
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 10-E   | Nazlı Can Özdemir| 396
 10-E   | Çağla Nur Tapar | 452
 10-E   | Şevval Amaç | 432
-#  (WET AND DARK)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+ #  WET AND DARK (ISLAK VE KOYU)
+## 
+Kıyafetlerimiz herhangi bir sıvı ile temas ettiği zaman bu sıvıyı emer ve renginde değişiklikler meydana gelir. Genellikle rengin koyulaşmasına yol açan bu etki, sıvı buharlaşıncaya veya başkan bir etken tarafından yok oluncaya kadar devam eder. Renk kavramının çok fazla somutluk ifade etmemesiyle birlikte, gerçekte renk ışığın yansımasına bağlıdır. Yani kumaş ya da herhangi bir nesnenin ışığı soğurma ya da yansıtma olaylarının etkisiyle renk kavramı oluşur. Işığın özelliklerinin değişmesiyle gözümüzün algıladığı renk de değişir. Projemizin amacı kumaşın ıslandığı zaman meydana gelen renk değişimlerinin nedenini bulmaktır. Kumaşın ıslanması sonucu kumaş içine bir sıvı hapsetmiş olur ve bu durum da ışığın gözümüze yansıması bakımında çeşitli değişikliklere yol açar. Buna yönelik çeşitli deneyler yaparken aynı zamanda bu renk değişimindeki ton farklılıklarına yönelik de deneyler yapacağız. Islak kumaşın renginin ortamdaki ışık, kumaş rengi, kumaş türü, ışık şiddeti, sıvı değişkeni gibi çeşitli etmenlerin değişmesinden nasıl etkilendiğini gözlemleyeçeğiz. Bu deneylerin sonucunda kıyafetlerın ıslandığı zaman neden renk değiştirdikleri sorusuna cevap bulmayı amaçlıyoruz.
 
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+## Kaynakçalar 
+ 1. Kruszelnicki, K.S. ''Clothe's Darker When Wet''.ABC.
+ http://www.abc.net.au/science/k2/homework/s95587.htm
+ Son erişim tarihi: 30 Ekim 2017
+ 2.-,-.''Islaksa Daha Koyu''. Bilimseli.
+ http://bilimseli.com/islaksa-daha-koyu/
+ Son erişim tarihi: 30 Ekim 2017
+ 3. Philpot, W. ''Spectral Reflectance of Wetted Soils''. ASD Inc.
+ https://discover.asdi.com/bid/52203/Spectral-Reflectance-of-Wetted-Soils
+ Son erişim tarihi: 30 Ekim 2017
+ 4.-,-.''Scientists Discover Why Wem 2017t Soil Is Dark''. Scottish Sceptic.
+ http://scottishsceptic.co.uk/2011/04/01/scientists-discover-why-wet-soil-is-dark/
+ Son erişim tarihi: 30 Ekim 2017
+ 
